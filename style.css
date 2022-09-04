@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #e5e5e5;
+}
+
+li {
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+.description {
+  color: blue;
+}
