@@ -13,6 +13,18 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
+.main-description {
+  background: red;
+  margin: 40px 20px 40px 20px;
+  padding: 10px 20px 30px 40px;
+}
+
+.blok-2 {
+  background: rgb(0, 255, 47);
+  margin: 10px;
+  padding: 50px;
+}
+
 li {
   color: green;
 }
