@@ -13,26 +13,54 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-.main-description {
-  background: red;
-  margin: 40px 20px 40px 20px;
-  padding: 10px 20px 30px 40px;
+aside {
+  width: 370;
+  background: #1e2939;
 }
 
-.blok-2 {
-  background: rgb(0, 255, 47);
-  margin: 10px;
-  padding: 50px;
+.cv-photo {
+  margin-top: 25px;
 }
 
-li {
-  color: green;
+.header-secendary {
+  color: #ffffff;
 }
 
-h2 {
-  color: red;
+.contact-links {
+  color: #ffffff;
+
+  font-size: 14px;
+  line-height: 24px;
 }
 
-.description {
-  color: blue;
+.bold {
+  font-weight: 700;
+}
+
+.list-secendary {
+  color: #fb6d3a;
+  margin-left: 0;
+  padding: 0;
+  list-style: inside;
+}
+
+.list-secendary-item {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skils-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.soft-skils-block {
+  margin-top: 44px;
+  margin-left: 40px;
 }
